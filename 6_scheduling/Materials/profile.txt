@@ -1,0 +1,18 @@
+# Unit limit per quarter
+minUnits 1
+maxUnits 5
+
+# Quarters
+register Aut2015
+register Win2016
+register Spr2016
+
+# Courses taken
+taken MATH51
+
+# Courses requested
+request CS106B
+request CS107
+request CS109
+request CS140
+request CS229
